@@ -1,0 +1,23 @@
+{
+  "name": "OAA Malanje - Gestão Financeira",
+  "short_name": "OAA Finanças",
+  "description": "Sistema de gestão financeira da Ordem dos Advogados de Angola - Delegação de Malanje",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1e3c72",
+  "theme_color": "#f1c40f",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
